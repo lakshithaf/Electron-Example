@@ -1,0 +1,19 @@
+{
+  "name": "electron-app",
+  "version": "0.1.0",
+  "description": "Electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lakshithaf@gmail.com"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "lakshitha fernando",
+  "license": "ISC"
+}
